@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 760" role="img" aria-label="Hong Kong gamma radiation skull map">
+<style>
+  .water { fill:#071d31 } .land { fill:#d9cfb7; stroke:#f6edda; stroke-width:4 }
+  .island { fill:#d9cfb7; stroke:#f6edda; stroke-width:3 } .skull { fill:#e44739; font:22px serif; paint-order:stroke; stroke:#071d31; stroke-width:3 }
+  .place { fill:#edf4f6; font:12px Arial } .title { fill:#f8f3e8; font:700 28px Arial } .sub { fill:#9cc8ce; font:14px Arial }
+</style>
+<rect class="water" width="860" height="760"/><path class="land" d="M68 205 L150 131 254 154 310 111 393 144 471 114 577 161 691 121 786 196 733 284 785 347 680 388 627 459 526 443 449 521 358 486 279 532 203 485 133 511 74 437 105 362Z"/>
+<path class="island" d="M178 534q82-42 148 23l-39 72-122-14zM341 552q92-62 171 7l-39 105-130-19zM68 593q45-43 92-12l-4 65-87 21zM525 572q84-47 142 14l-44 78-121-20z"/>
+<text x="42" y="54" class="title">香港环境伽马辐射 · skull scale</text><text x="42" y="80" class="sub">2026-10-04 16:00 HKT · hourly mean · μSv/h</text>
+<text x="748" y="126" class="skull">☠☠</text><text x="748" y="144" class="place">Ping Chau · 0.08</text><text x="627" y="220" class="skull">☠☠</text><text x="627" y="238" class="place">Tap Mun · 0.08</text><text x="559" y="166" class="skull">☠☠☠</text><text x="559" y="184" class="place">Kat O · 0.10</text><text x="529" y="333" class="skull">☠☠☠</text><text x="529" y="351" class="place">Yuen Ng Fan · 0.11</text><text x="397" y="243" class="skull">☠☠☠</text><text x="397" y="261" class="place">Tai Mei Tuk · 0.11</text><text x="356" y="164" class="skull">☠☠☠</text><text x="356" y="182" class="place">Sha Tau Kok · 0.10</text><text x="363" y="464" class="skull">☠☠☠☠</text><text x="363" y="482" class="place">Kwun Tong · 0.12</text><text x="393" y="506" class="skull">☠☠</text><text x="393" y="524" class="place">Sai Wan Ho · 0.08</text><text x="296" y="465" class="skull">☠☠☠☠☠</text><text x="296" y="483" class="place">King's Park · 0.14</text><text x="110" y="296" class="skull">☠☠☠☠☠</text><text x="110" y="314" class="place">Tsim Bei Tsui · 0.13</text><text x="448" y="640" class="skull">☠☠☠☠☠</text><text x="448" y="658" class="place">Cape D'Aguilar · 0.13</text><text x="102" y="590" class="skull">☠☠☠☠☠</text><text x="102" y="608" class="place">Chek Lap Kok · 0.15</text>
+<rect x="42" y="695" width="776" height="1" fill="#4b7381"/><text x="42" y="728" class="sub">☠ = 0.06–0.08 μSv/h; each additional skull adds 0.02 μSv/h (capped at 12)</text>
+</svg>
